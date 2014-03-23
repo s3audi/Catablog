@@ -15,9 +15,9 @@
 .catablog-row {
 	position: relative;
 	display: block;
-	float: none;
+	float: right;
 	margin: 0;
-	padding: 5px 5px 15px 5px;
+	padding: 2px 2px 2px 2px;
 }
 .catablog-row .catablog-images-column {
 	float: left;
